@@ -57,11 +57,11 @@ class Quiz {
         // }
 
          if (correctAns === allContestants[plr].answer){
-           fill("Green")
+         fill("Green")
          }
-         else{
-           fill("red");
-         }
+        else{
+         fill("red");
+        }
 
         // if (correctAns === allContestants[plr].answer){
         //   fill("red")
